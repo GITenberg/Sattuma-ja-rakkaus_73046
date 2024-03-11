@@ -1,0 +1,48 @@
+_repo: Sattuma-ja-rakkaus_73046
+_version: 0.0.1
+alternative_title: Le hasard et l'amour. Finnish
+contributor:
+  translator:
+    agent_name: Walldén, Hilja
+    alias: Wallden, Hilja
+    birthdate: 1871
+    deathdate: 1929
+    gutenberg_agent_id: '42640'
+    url: http://www.gutenberg.org/2009/agents/42640
+    wikipedia: https://fi.wikipedia.org/wiki/Hilja_Walld%C3%A9n
+creator:
+  author:
+    agent_name: Chantepleure, G. (Guy)
+    aliases:
+    - Dussap, Jeanne Violet
+    - Chantepleure, Guy
+    birthdate: 1870
+    deathdate: 1951
+    gutenberg_agent_id: '33152'
+    url: http://www.gutenberg.org/2009/agents/33152
+    wikipedia: https://fr.wikipedia.org/wiki/Guy_Chantepleure
+description: ''
+gutenberg_issued: '2024-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73046'
+language: fi
+pgterms:marc905: 20231113131231chantepleu
+pgterms:marc906: '1927'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aJyväskylä :$bK. J. Gummerus Oy, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into Finnish'
+- !lcsh 'Short stories, French -- Translations into Finnish'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Todiste -- Tuhkapöperö tanssiaisissa -- Sama juttu -- Ruusuneiti
+  -- Herttua ja markiisitar -- Runoilijan hopeatohvelit -- Prinsessa Helmen tarina
+  -- Kiven alle kätketty sydän -- Maan aartehisto -- Kukkaskautena -- Kahden -- Setä
+  Franeusen tuuma -- Kirkkoherra Cyrillen ruusutarha -- Emäntä Gervaise.
+title: Sattuma ja rakkaus
+url: http://www.gutenberg.org/ebooks/73046
