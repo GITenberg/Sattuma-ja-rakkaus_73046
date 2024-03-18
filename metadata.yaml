@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '42640'
     url: http://www.gutenberg.org/2009/agents/42640
     wikipedia: https://fi.wikipedia.org/wiki/Hilja_Walld%C3%A9n
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chantepleure, G. (Guy)
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33152
     wikipedia: https://fr.wikipedia.org/wiki/Guy_Chantepleure
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73046#Sattuma-ja-rakkaus
 gutenberg_issued: '2024-02-26'
 gutenberg_type: Text
 identifiers:
